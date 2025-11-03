@@ -40,9 +40,6 @@
 - **The Scripting Project (Proxmox, Windows Server, Linux)**  
   Automatisation de tâches avec PowerShell et Bash, déploiement complet sur Proxmox VE, configuration réseau et SSH sécurisée, documentation technique.
 
-- **Support Informatique Le Tremplin**  
-  Assistance quotidienne aux utilisateurs, diagnostic et résolution des incidents matériels et logiciels, maintenance des postes et réseau.
-
 ---
 
 ### 🧠 À propos de moi
