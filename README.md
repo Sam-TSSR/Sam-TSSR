@@ -43,10 +43,7 @@
   
 - **[The Scripting Project (Proxmox, Windows Server, Linux)](https://github.com/Sam-TSSR/TSSR-2409-JAUNE-P2-G3-TheScriptingProject.git)**
 
-  Automatisation de tâches administratives et de gestion d’infrastructure avec PowerShell et Bash. 
-  Déploiement complet d’un environnement virtuel sur Proxmox VE, configuration réseau, SSH sécurisé et pare-feu.  
-  Tests et validation des scripts multi-plateformes, documentation technique détaillée incluant architecture, choix techniques et procédures de résolution de problèmes.  
-  Suivi de projet agile via Trello : planification, sprints et suivi des missions.
+  Automatisation de tâches administratives et de gestion d’infrastructure avec PowerShell et Bash. Déploiement complet d’un environnement virtuel sur Proxmox VE, configuration réseau, SSH sécurisé et pare-feu. Tests et validation des scripts multi-plateformes, documentation technique détaillée incluant architecture, choix techniques et procédures de résolution de problèmes. Suivi de projet agile via Trello : planification, sprints et suivi des missions.
 
 ---
 
