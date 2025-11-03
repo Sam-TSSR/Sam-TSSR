@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Sam KILIC</h1>
+<h1 align="center">👋 Salut, c'est Sam KILIC</h1>
 <h3 align="center">💻 Technicien Systèmes et Réseaux | 🧠 Passionné DevOps | ☁️ Apprenant Cloud & Automatisation</h3>
 
 ---
