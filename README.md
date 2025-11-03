@@ -60,6 +60,17 @@
 
 ###
 
+
+
+### 🧩 Fun Section
+```bash
+> whoami
+sam@github
+-------------------------------
+💬 Devise : "Automatiser. Simplifier. Optimiser."
+-------------------------------
+```
+
 ###
 
 <div align="center">
@@ -75,12 +86,3 @@
 </div>
 
 ###
-
-### 🧩 Fun Section
-```bash
-> whoami
-sam@github
--------------------------------
-💬 Devise : "Automatiser. Simplifier. Optimiser."
--------------------------------
-
