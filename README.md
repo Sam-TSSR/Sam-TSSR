@@ -39,7 +39,8 @@
 ### 📂 Projets récents
 - **The Scripting Project (Proxmox, Windows Server, Linux)**  
   Automatisation de tâches avec PowerShell et Bash, déploiement complet sur Proxmox VE, configuration réseau et SSH sécurisée, documentation technique.
-
+- **Base de données chiffrée avec KeePass (Windows Server, Windows 10, Ubuntu)**
+  Mise en place d’une solution centralisée de gestion de mots de passe avec KeePass. Hébergement de la base chiffrée sur Windows Server 2022 et accès sécurisé multi-plateforme depuis des clients Windows 10 et Ubuntu 22. Test de compatibilité, configuration réseau et validation de la   synchronisation des accès utilisateurs.
 ---
 
 ### 🧠 À propos de moi
