@@ -1,9 +1,9 @@
-<h1 align="center"> Hi, I'm Sam KILIC</h1>
-<h3 align="center"> System Administrator |  DevOps Enthusiast |  Cloud & Automation Learner</h3>
+<h1 align="center">👋 Hi, I'm Sam KILIC</h1>
+<h3 align="center">💻 System Administrator | 🧠 DevOps Enthusiast | ☁️ Cloud & Automation Learner</h3>
 
 ---
 
- Connect With Me,
+### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,7 +18,7 @@
 
 ---
 
- Tech Stack,
+### ⚙️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -31,3 +31,27 @@
 </p>
 
 ---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-KILIC&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-KILIC&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+### 🧠 About Me
+- 🔭 I’m currently learning **automation and cloud systems**
+- ⚙️ Focused on **Linux, PowerShell, and scripting**
+- 🚀 Interested in **DevOps and virtualization**
+- 🎯 Goal: Automate everything!
+
+---
+
+### 🧩 Fun Section
+```bash
+> whoami
+sam@github
+-------------------------------
+💬 Motto: "Automate. Simplify. Scale."
+-------------------------------
