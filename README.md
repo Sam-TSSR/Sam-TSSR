@@ -1,5 +1,5 @@
-<h1 align="center">👋 Salut, je suis Sam KILIC</h1>
-<h3 align="center">💻 Technicien Systèmes et Réseaux | 🧠 Support Informatique & Administration Systèmes</h3>
+<h1 align="center">👋 Salut, c'est Sam KILIC</h1>
+<h3 align="center">💻 Technicien Systèmes et Réseaux | 🧠 Support Informatique & Administration Systèmes</h3> |
 
 ---
 
