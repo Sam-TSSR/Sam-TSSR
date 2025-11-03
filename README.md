@@ -60,6 +60,12 @@
 
 ###
 
+###
+
+<img src="https://raw.githubusercontent.com/Sam-TSSR/Sam-TSSR/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 🧩 Fun Section
 ```bash
 > whoami
