@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">👋 Salut, c'est Sam KILIC</h1>
+<h1 align="center">👋 Salut, c'est Sam</h1>
 <h3 align="center">💻 Technicien Systèmes et Réseaux | 🧠 Support Informatique & Administration Systèmes</h3>
 
 ---
